@@ -6,26 +6,26 @@
 4. Parth Dubey [@parthdubey](https://github.com/f20180255)
 
 ### List
-1. Game of thrones ~Arpit
-2. Sacred Games ~Arpit
-3. Attack on Titan ~Arpit
-4. Tokyo Ghoul ~Arpit
-5. Naruto ~Arpit
-6. Naruto Shipudden ~Arpit
-7. One Piece ~Arpit
-8. Boku no Hero Academia ~Arpit
-9. Sherlock ~Arpit
-10. The Flash ~Arpit
-11. F.R.I.E.N.D.S. ~Arpit
-12. CSGO ~Arpit
-13. Dota ~Arpit
-14. Max Payne ~Arpit
-15. Call of duty ~Arpit
-16. Battelfield ~Arpit
-17. Erased ~Arpit
-18. HighSchool DXD ~Arpit
-19. Full Metal Alchemist ~Arpit 
-20. Hunter x Hunter ~Arpit
+1. Game of thrones ~chaitanya
+2. Sacred Games ~chaitanya
+3. badminton ~chaitanya
+4. stranger things ~chaitanya
+5. GTA sa ~chaitanya
+6. counter strike ~chaitanya
+7. death note~chaitanya
+8. pubg ~chaitanya
+9. mission impossible ~chaitanya
+10. singing ~chaitanya
+11. F.R.I.E.N.D.S. ~chaitanya
+12. dancing~chaitanya
+13. Dota ~chaitanya
+14. Max Payne ~chaitanya
+15. total overdose ~chaitanya
+16. bully~chaitanya
+17. asphalt 8 ~chaitanya
+18. random flash games ~chaitanya
+19. music ~chaitanya 
+20. tomb raider ~chaitanya
 
 
-Case closed {Arpit Bhardwaj}
+Case closed {chaitanya dahihandekar}
